@@ -1,1 +1,13 @@
 # test-github-repos
+
+## About Me
+
+I'm Louise, currently working as a marketer freelance. I love golf, dogs, 
+and travelling. 
+
+My favourite places to visit were:
+
+* Spain
+* Amsterdam
+* Philippines
+* South Africa
