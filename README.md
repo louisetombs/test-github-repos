@@ -11,3 +11,5 @@ My favourite places to visit were:
 * Amsterdam
 * Philippines
 * South Africa
+
+I've lived in 5 different countries.
